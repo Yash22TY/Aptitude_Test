@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .footer {
   background-color: #f0f2f5;
   padding: 1rem 0;
@@ -29,35 +29,3 @@
 .footer-icons a:hover {
   color: #0077cc;
 }
-=======
-.footer {
-  background-color: #f0f2f5;
-  padding: 1rem 0;
-  text-align: center;
-  color: #555;
-  font-size: 0.9rem;
-  border-top: 1px solid #ddd;
-  margin-top: auto;
-  width: 100%;
-}
-
-.footer-content {
-  max-width: 960px;
-  margin: 0 auto;
-}
-
-.footer-icons {
-  margin: 0.5rem 0;
-}
-
-.footer-icons a {
-  margin: 0 10px;
-  font-size: 1.5rem;
-  color: #555;
-  transition: color 0.3s ease;
-}
-
-.footer-icons a:hover {
-  color: #0077cc;
-}
->>>>>>> 42f78361ced614b42bedf5bae1314bb6c7577a25
